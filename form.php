@@ -15,7 +15,7 @@ $subject_sys = "お問い合わせがありました\n";
 $body_sys = "\n";
 $footer = "\n------------
 サンプル株式会社
-http://kobakoo.github.io/kbk/
+http://kobakoo.github.io
 ------------
 ";
 //------------------------------------------------
