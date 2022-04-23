@@ -623,7 +623,7 @@ ul.slick-dots li.slick-active button {
 /*その他
 ---------------------------------------------------------------------------*/
 .clearfix::after {content: "";display: block;clear: both;}
-.color-theme, .color-theme a {color: #0106d7 !important;}
+/* .color-theme, .color-theme a {color: #0106d7 !important;} */
 .color-check, .color-check a {color: #f00 !important;}
 .c {text-align: center !important;}
 .ws {width: 95%;display: block;}
