@@ -1134,7 +1134,7 @@ $(function(){
 	},3000);
 });
 
-.anim-box.poyopoyo {
+/* .anim-box.poyopoyo {
   animation: poyopoyo 2s ease-out infinite;
   opacity: 1;
 }
@@ -1146,3 +1146,4 @@ $(function(){
     transform: scale(0.95);
   }
 }
+ */
