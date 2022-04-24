@@ -1133,3 +1133,16 @@ $(function(){
 		loader.fadeOut();
 	},3000);
 });
+
+.anim-box.poyopoyo {
+  animation: poyopoyo 2s ease-out infinite;
+  opacity: 1;
+}
+@keyframes poyopoyo {
+  0%, 40%, 60%, 80% {
+    transform: scale(1.0);
+  }
+  50%, 70% {
+    transform: scale(0.95);
+  }
+}
