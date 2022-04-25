@@ -1134,11 +1134,11 @@ $(function(){
 	},3000);
 });
 
-.anim-box.poyopoyo {
+.anim-box{
   animation: poyopoyo 2s ease-out infinite;
   opacity: 1;
 }
-@keyframes poyopoyo {
+@keyframes anim-box {
   0%, 40%, 60%, 80% {
     transform: scale(1.0);
   }
