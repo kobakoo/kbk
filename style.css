@@ -884,21 +884,21 @@ a.btn-flat:before {
   top: 0;
   left: 0;
 
-  width: 200%;
+  width: 300%;
   height: 500%;
 
   content: "";
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
   -webkit-transform: translateX(-98%) translateY(-25%) rotate(45deg);
-  transform: translateX(150px) translateY(-25%) rotate(45deg);
+  transform: translateX(-98%) translateY(-25%) rotate(45deg);
 
   background: #00b7ee;
 }
 
 a.btn-flat:hover:before {
   -webkit-transform: translateX(-9%) translateY(-25%) rotate(45deg);
-  transform: translateX(-9%) translateY(-25%) rotate(45deg);
+  transform: translateX(100px) translateY(-25%) rotate(45deg);
 }
 
 @import "https://use.fontawesome.com/releases/v5.13.0/css/all.css";
