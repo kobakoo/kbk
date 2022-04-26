@@ -884,14 +884,14 @@ a.btn-flat:before {
   top: 0;
   left: 0;
 
-  width: 400%;
+  width: 200%;
   height: 500%;
 
   content: "";
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
   -webkit-transform: translateX(-98%) translateY(-25%) rotate(45deg);
-  transform: translateX(-98%) translateY(-25%) rotate(45deg);
+  transform: translateX(150px) translateY(-25%) rotate(45deg);
 
   background: #00b7ee;
 }
